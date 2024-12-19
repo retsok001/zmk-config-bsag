@@ -127,9 +127,9 @@ ZMK_BEHAVIOR(dot_morph, mod_morph,
         };
         fun_layer {
             bindings = <
-            &kp F12      &kp F7       &kp F8          &kp F9          ___                ___           ___               ___             ___           ___
+            &kp F12      &kp F7       &kp F7          &kp F9          ___                ___           ___               ___             ___           ___
             &kp F11      &kp F4       &kp F5          &kp F6          ___                ___           &kp LSHFT         &kp LGUI        &kp LALT      &kp LCTRL 
-    ___     &kp F10      &kp F1       &kp F2          &kp F3          ___                ___           &kp HYP           &kp MEH         ___           ___             ___
+    ___     &kp F10      &kp F1       &kp F12          &kp F3          ___                ___           &kp HYP           &kp MEH         ___           ___             ___
                                       ___             ___             ___                ___           ___               ___
             >;
         };
